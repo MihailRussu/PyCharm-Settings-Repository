@@ -1,0 +1,6 @@
+<keymap version="1" name="Mac OS X copy 0" parent="Mac OS X">
+  <action id="Macro.format &amp; save">
+    <keyboard-shortcut first-keystroke="meta s" />
+  </action>
+  <action id="SaveAll" />
+</keymap>
