@@ -3,19 +3,20 @@
     <ignoreFiles list="*$py.class;*.hprof;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;vssver.scc;vssver2.scc;" />
     <extensionMap>
       <mapping pattern="scratch_4" type="HTML" />
-      <removed_mapping ext="html" approved="true" type="HTML" />
+      <removed_mapping ext="html" type="HTML" />
       <mapping ext="html" type="Jinja2" />
       <mapping pattern="_tpl_page_user_businesses_result.jst" type="PLAIN_TEXT" />
-      <mapping pattern="faq_render" type="PLAIN_TEXT" />
-      <mapping pattern="_tpl_page_user_businesses" type="PLAIN_TEXT" />
       <mapping pattern="contact_sales_log.hbs" type="PLAIN_TEXT" />
+      <mapping pattern="faq_render" type="PLAIN_TEXT" />
       <mapping pattern="settings" type="PLAIN_TEXT" />
+      <mapping pattern="_tpl_page_user_businesses" type="PLAIN_TEXT" />
       <mapping ext="email" type="PLAIN_TEXT" />
       <mapping ext="mo" type="PLAIN_TEXT" />
+      <mapping ext="hbs" type="PLAIN_TEXT" />
       <mapping ext="sms" type="PLAIN_TEXT" />
+      <mapping ext="jst" type="PLAIN_TEXT" />
       <mapping ext="web" type="PLAIN_TEXT" />
       <mapping ext="voice" type="PLAIN_TEXT" />
-      <mapping ext="jst" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
