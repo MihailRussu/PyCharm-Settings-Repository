@@ -11,8 +11,9 @@
       <mapping pattern="settings" type="PLAIN_TEXT" />
       <mapping pattern="_tpl_page_user_businesses" type="PLAIN_TEXT" />
       <mapping ext="email" type="PLAIN_TEXT" />
-      <mapping ext="sms" type="PLAIN_TEXT" />
       <mapping ext="mo" type="PLAIN_TEXT" />
+      <mapping ext="sms" type="PLAIN_TEXT" />
+      <mapping ext="md" type="PLAIN_TEXT" />
       <mapping ext="jst" type="PLAIN_TEXT" />
       <mapping ext="web" type="PLAIN_TEXT" />
       <mapping ext="voice" type="PLAIN_TEXT" />
