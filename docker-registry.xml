@@ -1,0 +1,9 @@
+<application>
+  <component name="DockerRegistry">
+    <DockerRegistry email="mihail.russu@acrospire.technology">
+      <option name="address" value="https://us.gcr.io" />
+      <option name="name" value="Docker Registry" />
+      <option name="username" value="mihail.russu@acrospire.technology" />
+    </DockerRegistry>
+  </component>
+</application>
