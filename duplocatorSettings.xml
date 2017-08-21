@@ -1,0 +1,10 @@
+<application>
+  <component name="DuplocatorSettings">
+    <option name="SELECTED_PROFILES">
+      <set>
+        <option value="Python" />
+      </set>
+    </option>
+    <option name="LAST_SELECTED_LANGUAGE" value="Python" />
+  </component>
+</application>
