@@ -1,0 +1,10 @@
+<application>
+  <component name="ActionMacroManager">
+    <macro name="re-format &amp; save">
+      <action id="ReformatCode" />
+      <action id="AutoIndentLines" />
+      <action id="ReformatCode" />
+      <action id="SaveAll" />
+    </macro>
+  </component>
+</application>
