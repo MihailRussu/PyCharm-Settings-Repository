@@ -1,9 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Module 'gru'" />
-    <option name="defaultScopeName" value="Module 'gru'" />
+    <option name="customScope" value="Module 'fileserver'" />
+    <option name="defaultScopeName" value="Module 'fileserver'" />
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
-    <option name="SEARCH_SCOPE" value="Module 'gru'" />
+    <option name="SEARCH_SCOPE" value="Module 'fileserver'" />
   </component>
 </application>
