@@ -1,9 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Module 'compute'" />
-    <option name="defaultScopeName" value="Module 'compute'" />
-    <option name="regularExpressions" value="true" />
-    <option name="REGULAR_EXPRESSIONS" value="true" />
-    <option name="SEARCH_SCOPE" value="Module 'compute'" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
   </component>
 </application>
