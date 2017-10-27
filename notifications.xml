@@ -1,5 +1,0 @@
-<application>
-  <component name="NotificationConfiguration">
-    <notification groupId="LIGHTWEIGHT_LICENSE_NOTIFICATION" displayType="STICKY_BALLOON" shouldLog="false" />
-  </component>
-</application>
