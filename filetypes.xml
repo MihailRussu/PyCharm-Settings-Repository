@@ -17,6 +17,8 @@
       <mapping ext="p12" type="PLAIN_TEXT" />
       <mapping ext="sms" type="PLAIN_TEXT" />
       <mapping ext="jst" type="PLAIN_TEXT" />
+      <mapping ext="rsa" type="PLAIN_TEXT" />
+      <mapping ext="der" type="PLAIN_TEXT" />
       <mapping ext="web" type="PLAIN_TEXT" />
       <mapping ext="voice" type="PLAIN_TEXT" />
     </extensionMap>
