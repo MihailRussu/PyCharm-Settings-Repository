@@ -2,9 +2,6 @@
   <action id="Macro.format &amp; save">
     <keyboard-shortcut first-keystroke="meta s" />
   </action>
-  <action id="Macro.re-format &amp; save">
-    <keyboard-shortcut first-keystroke="shift meta s" />
-  </action>
   <action id="SaveAll" />
   <action id="SwitchApply">
     <keyboard-shortcut first-keystroke="ctrl alt enter" />
